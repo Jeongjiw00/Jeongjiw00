@@ -3,8 +3,18 @@
 ## About me
 
 - contact
-  - email : 456wldn@gmail.com | wldn0229@naver.com
-- blog : https://velog.io/@zoo33/posts
+
+  <a href="mailto:456wldn@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+
+- blog
+
+  <a href="https://velog.io/@zoo33">
+        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+
+</br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongjiw00)](https://github.com/anuraghazra/github-readme-stats)
 
